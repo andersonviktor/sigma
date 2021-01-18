@@ -158,7 +158,7 @@
                 </div>
             </div>
             <div class="side h-100 w-18 d-flex flex-column align-items-center justify-content-center">
-                <h4 class="text-center">UC's</h4>
+                <h4 class="text-center">Docentes</h4>
                 <div class="w-75 px-2 h-75 d-flex flex-column align-items-center overflow-auto">
                     <div class="w-65 mt-2 side-item bg-white text-center" draggable="true">Kge</div>
                     <div class="w-65 mt-2 side-item bg-white text-center" draggable="true">Kge</div>
